@@ -20,7 +20,6 @@ def deep_sorted(x: any) -> str:
         return str(x)
 
 
-
 if __name__ == '__main__':
     # x=eval(input())
     # print(deep_sorted(x))
